@@ -9,5 +9,5 @@ Matrix multiplication was first described by the French mathematician Jacques Ph
 If A is an m × n matrix and B is an n × p matrix:  
 <img src="https://github.com/Crocodilchik/Multiply-Matrices/blob/main/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9.png" alt="image" >
 the matrix product C = AB (denoted without multiplication signs or dots) is defined to be the m × p matrix
-
+<img src="https://github.com/Crocodilchik/Multiply-Matrices/blob/main/Pic1.png" alt="image2" >
 
