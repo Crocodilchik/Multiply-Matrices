@@ -7,4 +7,6 @@ Matrix multiplication was first described by the French mathematician Jacques Ph
 
 ## Usual multiply
 If A is an m × n matrix and B is an n × p matrix:
-A = (a<sub>ij</sub>)<sub><sup>m,n</sup>i,j = 1</sub>
+    (a<sub>11</sub> a<sub>12</sub> ... a<sub>1n</sub> )
+A = (... ... ... ...)
+    (a<sub>m1</sub> a<sub>m2</sub> ... a<sub>mn</sub>)
