@@ -11,5 +11,5 @@ If A is an m × n matrix and B is an n × p matrix:
 A = (... ... ... ...)  
     (a<sub>m1</sub> a<sub>m2</sub> ... a<sub>mn</sub>)  
     
-    ![image](https://github.com/Crocodilchik/Multiply-Matrices/assets/92322863/6350d0c7-e55d-41cb-a4d1-2c95469742d6)
+    ![image](https://github.com/Crocodilchik/Multiply-Matrices/blob/main/9196c0c24ad20c3b18582bc78785fa405d91c7c3.svg)
 
