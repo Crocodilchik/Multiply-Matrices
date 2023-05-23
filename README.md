@@ -10,3 +10,6 @@ If A is an m × n matrix and B is an n × p matrix:
     (a<sub>11</sub> a<sub>12</sub> ... a<sub>1n</sub> )  
 A = (... ... ... ...)  
     (a<sub>m1</sub> a<sub>m2</sub> ... a<sub>mn</sub>)  
+    
+    ![image](https://github.com/Crocodilchik/Multiply-Matrices/assets/92322863/6350d0c7-e55d-41cb-a4d1-2c95469742d6)
+
